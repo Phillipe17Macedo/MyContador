@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyContador</string>
+    <string name="app_name">My Contador</string>
+    <string name="btn_aumentar">AUMENTAR</string>
+    <string name="btn_diminuir">DIMINUIR</string>
 </resources>
